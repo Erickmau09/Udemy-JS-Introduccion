@@ -43,7 +43,7 @@ sumaEdades = edadAna + edadMaria;
 yearAna = yearActual - edadAna;
 yearMaria = yearActual - edadMaria;
 
-console.log ('La diferencia de sus edades son: ' + diferenciaEdad + ' años');
+console.log ('La diferencia de sus edades son: ' + diferenciaEdad);
 console.log (sumaEdades);
 console.log ('Año en que nació Ana ' + yearAna);
 console.log ('Año en que nació Maria ' + yearMaria);
