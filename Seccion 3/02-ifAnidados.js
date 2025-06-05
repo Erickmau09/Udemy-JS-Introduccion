@@ -18,3 +18,6 @@ if (edad < 12){
     else if ((edad > 17) && (edad < 60)) //Al igual que la primera condicion utilizamos el condicional && ya que ambas tienen que ser true
         {console.log (nombre + ' es un adulto.');} 
     else {console.log (nombre + ' es un anciano.');}
+
+
+    /*DUDA: COMO COMBINAR AND, OR, NOT Y CUANDO SE UTILIZAN**********/
