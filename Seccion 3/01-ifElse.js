@@ -2,7 +2,7 @@
 -Sentencia if...else
 -If anidados
 -Sentencia Switch
--Estructura For
+-Estructura For 
 -Estructura While y Do...while
 
 ***************************************************************/
